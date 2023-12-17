@@ -1,0 +1,10 @@
+/* src/components/ImageSlider.css */
+.slider-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Add any additional styling for arrows, dots, etc. */
+  
